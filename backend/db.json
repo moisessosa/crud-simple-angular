@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "PC gamer",
+      "price": 10000.79
+    },
+    {
+      "id": 4,
+      "name": "PC economica",
+      "price": 2000
+    },
+    {
+      "name": "Produto de teste",
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "Acer Notebook",
+      "price": "01000",
+      "id": 7
+    },
+    {
+      "name": "Moises",
+      "price": "200000",
+      "id": 8
+    },
+    {
+      "name": "perro",
+      "price": "1500",
+      "id": 9
+    }
+  ]
+}
